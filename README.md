@@ -1,14 +1,14 @@
 # form2googleSheets
-Sending a form as JSON to Google Sheets on google app engine using POST method. Compile data in google sheets, for static websites hosted on a server that doesnt support scripting language such as PHP
-
 
 Instructions for google sheets setup:
+
 1----------------------------
 The Sheet
 
 Navigate to drive.google.com and click on NEW > Google Sheets to create a new Sheet. Give it a name, perhaps “Form Google Sheets”. Put the following names into the first row of the first five columns:
 
     Timestamp  name  email phone message
+    
 2---------------------------
 The Script
 
